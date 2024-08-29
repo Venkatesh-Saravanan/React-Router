@@ -1,0 +1,7 @@
+body{
+  padding-top: 7rem;
+}
+
+.active{
+  transform: scale(1.02);
+}
